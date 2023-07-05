@@ -1,0 +1,3 @@
+"D:\Aplicaciones\CLion 2021.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Conecta4.dir/objects.a
+D:\Aplicaciones\MinGW\bin\ar.exe cr CMakeFiles\Conecta4.dir/objects.a @CMakeFiles\Conecta4.dir\objects1.rsp
+D:\Aplicaciones\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Conecta4.dir/objects.a -Wl,--no-whole-archive -o Conecta4.exe -Wl,--out-implib,libConecta4.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Conecta4.dir\linklibs.rsp

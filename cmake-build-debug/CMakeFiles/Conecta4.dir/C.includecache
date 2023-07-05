@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/isaac/Desktop/VegaIsaac/Proyecto/Conecta4/Conecta4.c
+stdio.h
+-
+stdlib.h
+-
+conectaFun.h
+C:/Users/isaac/Desktop/VegaIsaac/Proyecto/Conecta4/conectaFun.h
+aboutMe.h
+C:/Users/isaac/Desktop/VegaIsaac/Proyecto/Conecta4/aboutMe.h
+
+C:/Users/isaac/Desktop/VegaIsaac/Proyecto/Conecta4/aboutMe.h
+conectaFun.h
+C:/Users/isaac/Desktop/VegaIsaac/Proyecto/Conecta4/conectaFun.h
+
+C:/Users/isaac/Desktop/VegaIsaac/Proyecto/Conecta4/conectaFun.h
+time.h
+-
+stdlib.h
+-
+windows.h
+-
+

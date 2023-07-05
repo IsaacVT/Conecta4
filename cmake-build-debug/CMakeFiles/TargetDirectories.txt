@@ -1,0 +1,3 @@
+C:/Users/isaac/Desktop/VegaIsaac/Proyecto/Conecta4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/isaac/Desktop/VegaIsaac/Proyecto/Conecta4/cmake-build-debug/CMakeFiles/Conecta4.dir
+C:/Users/isaac/Desktop/VegaIsaac/Proyecto/Conecta4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
